@@ -12,4 +12,4 @@ jobs:
 
     - name: Hello
       run: |
-        echo "Hello World from self hosted runner!"
+        echo "Hello World from self hosted runnerrr!"
